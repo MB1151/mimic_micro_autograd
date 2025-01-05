@@ -75,7 +75,7 @@ $$
 
 Create a Virtual Environment for this project that will contain all the dependencies.
 
-```python -m venv .autograd_venv```
+```python3 -m venv .autograd_venv```
 
 Run the following command to install the necessary packages in the virtual environment.
 
