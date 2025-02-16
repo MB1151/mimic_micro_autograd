@@ -30,7 +30,7 @@ This repository contains two parallel sets of implementations for the same model
 
 ### `building_autograd_step_by_step/`
 
-This directory contains step by step implementation, execution, and implementation of autograd.
+This directory contains step by step implementation, explanations, and execution of autograd.
 
 - [`step_1_understanding_gradients.ipynb`](building_autograd_step_by_step/step_1_understanding_gradients.ipynb)
     * Shows how to calculate gradients wrt variables for any mathematical expression.
@@ -53,7 +53,7 @@ This directory contains step by step implementation, execution, and implementati
 
 ### `modularized_implementation`
 
-This directory hosts the python scripts containing the same code from Jupyter notebooks but is modularized to be reused and training.
+This directory houses the python scripts containing the same models built in the Jupyter notebooks but modularized to be reused for training and quick experimentation.
 
 ## Usage
 
